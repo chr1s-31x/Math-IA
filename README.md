@@ -1,2 +1,2 @@
 # Math-IA
-The goal was to demonstrate how complex shapes can be drawn using fourier series
+Demonstrating how complex shapes can be drawn using Fourier series
